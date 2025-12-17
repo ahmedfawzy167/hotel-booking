@@ -16,7 +16,6 @@
         "laravel/tinker": "^2.8",
         "laravel/ui": "^4.5",
         "opcodesio/log-viewer": "^3.6",
-        "spatie/laravel-backup": "^8.6",
         "spatie/laravel-searchable": "^1.12"
     },
     "require-dev": {
